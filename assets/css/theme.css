@@ -18194,13 +18194,13 @@ h1.first{
   font-family: 'WRESTLEMANIA', sans-serif;
   color: #000;
   border-color: #371911;
-  font-size: 130px;
+  font-size: 90px;
   letter-spacing: 4px;
 }
 h1.second{
   font-family: 'Typo Round Bold Demo', sans-serif;
   color: #A8B538;
-  font-size: 80px;
+  font-size: 85px;
 }
 
 @media (max-width: 769px ){
@@ -18209,7 +18209,7 @@ h1.second{
     font-size: 60px;
   }
   h1.second{
-    font-size: 40px;
+    font-size: 60px;
   }
   
   img.second{
